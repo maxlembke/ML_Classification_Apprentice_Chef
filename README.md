@@ -12,6 +12,7 @@ I was tasked with using the information in our course case to build a predictive
 File: [Lembke_Max_A1_Classification_Model_Development](https://github.com/maxlembke/ML_Classification_Apprentice_Chef/blob/main/Lembke_Max_A1_Classification_Model_Development.ipynb)
 ### 3) Unsupervised Analysis Project (with Team) 
 Our team was tasked to analyze and interpret an unsupervised learning problem based on survey data. This required an ability to code unsupervised machine learning algorithms and interpret their results.
+
 File: to be uploaded soon
 
 ### Additional Files: 
