@@ -6,16 +6,17 @@ The project consistet of three distinct tasks:
 
 ### 1) Regression Model Development
 I was tasked with using the information in our course case to build a predictive model on a continuous response variable (Y-variable). This assignment encompasses feature engineering, model preparation, variable selection, and model development.
-File: 
+File: [Lembke_Max_A1_Regression_Analysis_v1.5](https://github.com/maxlembke/ML_Classification_Apprentice_Chef/blob/main/Lembke_Max_A1_Regression_Analysis_v1.5.ipynb)
 ### 2) Classification Model Development 
 I was tasked with using the information in our course case to build a predictive model on a binary response variable (Y-variable). This assignment encompasses feature engineering, model preparation, variable selection, and model development.
-File: 
+File: [Lembke_Max_A1_Classification_Model_Development](https://github.com/maxlembke/ML_Classification_Apprentice_Chef/blob/main/Lembke_Max_A1_Classification_Model_Development.ipynb)
 ### 3) Unsupervised Analysis Project (with Team) 
 Our team was tasked to analyze and interpret an unsupervised learning problem based on survey data. This required an ability to code unsupervised machine learning algorithms and interpret their results.
-File: 
+File: to be uploaded soon
 
 ### Additional Files: 
-
+Assignment Details: [Apprentice Chef Course Case](https://github.com/maxlembke/ML_Classification_Apprentice_Chef/blob/main/Apprentice%20Chef%20Course%20Case.pdf)
+Assignment Data: [Apprentice_Chef_Dataset](https://github.com/maxlembke/ML_Classification_Apprentice_Chef/blob/main/Apprentice_Chef_Dataset.xlsx)
 
 ## Additional Information
 ~~~
