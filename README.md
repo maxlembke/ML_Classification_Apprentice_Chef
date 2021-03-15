@@ -16,6 +16,7 @@ File: to be uploaded soon
 
 ### Additional Files: 
 Assignment Details: [Apprentice Chef Course Case](https://github.com/maxlembke/ML_Classification_Apprentice_Chef/blob/main/Apprentice%20Chef%20Course%20Case.pdf)
+
 Assignment Data: [Apprentice_Chef_Dataset](https://github.com/maxlembke/ML_Classification_Apprentice_Chef/blob/main/Apprentice_Chef_Dataset.xlsx)
 
 ## Additional Information
